@@ -1,0 +1,19 @@
+
+# https://github.com/archiverjs/node-archiver
+- npm install archiver
+-------------------------------------------------------
+# https://github.com/samcday/node-stream-buffer#readme
+- npm install stream-buffers
+
+https://github.com/Maximiliano-zm
+
+ ███▄    █     ▒█████      ██▓     ██████     ▄▄▄         
+ ██ ▀█   █    ▒██▒  ██▒   ▓██▒   ▒██    ▒    ▒████▄       
+▓██  ▀█ ██▒   ▒██░  ██▒   ▒██▒   ░ ▓██▄      ▒██  ▀█▄     
+▓██▒  ▐▌██▒   ▒██   ██░   ░██░     ▒   ██▒   ░██▄▄▄▄██    
+▒██░   ▓██░   ░ ████▓▒░   ░██░   ▒██████▒▒    ▓█   ▓██▒   
+░ ▒░   ▒ ▒    ░ ▒░▒░▒░    ░▓     ▒ ▒▓▒ ▒ ░    ▒▒   ▓▒█░   
+░ ░░   ░ ▒░     ░ ▒ ▒░     ▒ ░   ░ ░▒  ░ ░     ▒   ▒▒ ░   
+   ░   ░ ░    ░ ░ ░ ▒      ▒ ░   ░  ░  ░       ░   ▒      
+
+
